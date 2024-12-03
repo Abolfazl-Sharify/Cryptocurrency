@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7c7d912b_002D0356_002D42e5_002D946b_002Dbd7abf61c243/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetCryptoPriceAsync_ShouldReturnPrice" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::3EAD2E83-7DCD-4A10-81F7-DF51ECB6830D::net8.0::Cryptocurrency.Tests.CryptocurrencyTests.GetCryptoPriceAsync_ShouldReturnPrice&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3EAD2E83-7DCD-4A10-81F7-DF51ECB6830D::net8.0::Cryptocurrency.Tests.CryptocurrencyTests.GetExchangeRatesAsync_ShouldReturnExchangeRates&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
